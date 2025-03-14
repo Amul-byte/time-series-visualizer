@@ -1,0 +1,6 @@
+numpy
+pandas
+matploylib.pyplot
+seaborn
+register_matplotlib_converters
+register_matplotlib_converters()
